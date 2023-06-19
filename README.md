@@ -10,6 +10,9 @@ I have made a [notebook](https://colab.research.google.com/drive/13eHAhoCzBsCHqZ
 
 In case the hyperlink does not work: https://colab.research.google.com/drive/13eHAhoCzBsCHqZS4f9rX-Mq-IZ2xHps1?usp=sharing
 
+### Video tutorial > Coming Soon
+
+
 
 ## Disclaimer
 Better deepfake software than this already exist, this is just a hobby project I created to learn about AI. Users must get consent from the concerned people before using their face and must not hide the fact that it is a deepfake when posting content online. I am not responsible for malicious behaviour of end-users.
