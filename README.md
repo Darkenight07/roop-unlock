@@ -8,10 +8,10 @@ That's it, that's the software. You can watch some demos [here](https://drive.go
 
 I have made a [notebook](https://colab.research.google.com/drive/13eHAhoCzBsCHqZS4f9rX-Mq-IZ2xHps1?usp=sharing) for you to use this repository in Google Colab
 
+
 In case the hyperlink does not work: https://colab.research.google.com/drive/13eHAhoCzBsCHqZS4f9rX-Mq-IZ2xHps1?usp=sharing
 
 ### Video tutorial > Coming Soon
-
 
 
 ## Disclaimer
