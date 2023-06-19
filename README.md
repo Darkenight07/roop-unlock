@@ -1,6 +1,4 @@
-Removed the NSFW blocker that is included in the main repo.....
-
-Take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training.
+With this repository you will not be blocked from NSFW content.
 
 That's it, that's the software. You can watch some demos [here](https://drive.google.com/drive/folders/1KHv8n_rd3Lcr2v7jBq1yPSTWM554Gq8e?usp=sharing).
 
@@ -57,12 +55,8 @@ options:
 
 Looking for a CLI mode? Using the -f/--face argument will make the program in cli mode.
 
-## Future plans
-- [ ] Improve the quality of faces in results
-- [ ] Replace a selective face throughout the video
-- [ ] Support for replacing multiple faces
-
 ## Credits
+- [roop](https://github.com/s0md3v): This is the creator of the Roop deepfake program
 - [henryruhs](https://github.com/henryruhs): for being an irreplacable contributor to the project
 - [ffmpeg](https://ffmpeg.org/): for making video related operations easy
 - [deepinsight](https://github.com/deepinsight): for their [insightface](https://github.com/deepinsight/insightface) project which provided a well-made library and models.
